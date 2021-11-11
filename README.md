@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# Chuck Norris Jokes React App   
+
+Retrieves a joke from chucknorris.io API.  
+Jokes can be saved on screen and removed by clicking on saved joke.   
+
+### `npm install` 
+
+Installs all package dependencies
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
